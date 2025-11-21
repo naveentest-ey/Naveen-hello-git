@@ -1,1 +1,2 @@
-First commit on github
+##about
+this project describes the branches of the project
